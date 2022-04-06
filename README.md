@@ -3,7 +3,7 @@ https://nodejs.org/es/
 ## inicia el proyecto con:
 ``` npm install ```
 
-### create una carpeta images en la que incluya otras carpetas con las capas
+### Crea una carpeta images con las carpetas de las capas a mezclar
 ### dispara el programa con:
 ``` node .\bin\index.js ```
 #### sigue las instrucciones.
