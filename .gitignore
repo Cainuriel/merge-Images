@@ -127,5 +127,6 @@ dist
 .pnp.*
 
 # custom
-images/
+
 descartes/
+images/
